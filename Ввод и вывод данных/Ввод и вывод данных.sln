@@ -1,0 +1,47 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32825.248
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "Сумма трех чисел", "Сумма тре чисел\Сумма трех чисел.pyproj", "{6B286D8B-AFF8-4AAB-BBA1-C1DCE731AE4C}"
+EndProject
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "Площадь прямоугольного треугольника", "Площадь прямоугольного треугольника\Площадь прямоугольного треугольника.pyproj", "{9E4F6964-9DE4-4E83-89EE-773E7496C69B}"
+EndProject
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "Дележ яблок", "Дележ яблок\Дележ яблок.pyproj", "{4EDFA060-4DF0-4341-8400-912A998AC77B}"
+EndProject
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "Электронные часы", "Электронные часы\Электронные часы.pyproj", "{A741DCD6-D71E-46D5-B956-5818D2EB90BB}"
+EndProject
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "Hello, Harry!", "Hello, Harry!\Hello, Harry!.pyproj", "{C5EC990E-1EE8-40CF-872A-BD59FEC98B04}"
+EndProject
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "Следующее и предыдущее", "Следующее и предыдущее\Следующее и предыдущее.pyproj", "{3504CF72-0416-4A96-A0E0-3280FEA05DE3}"
+EndProject
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "Парты", "Парты\Парты.pyproj", "{B8044627-D2DA-4E62-9699-D8E2BD136F6C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6B286D8B-AFF8-4AAB-BBA1-C1DCE731AE4C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6B286D8B-AFF8-4AAB-BBA1-C1DCE731AE4C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9E4F6964-9DE4-4E83-89EE-773E7496C69B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9E4F6964-9DE4-4E83-89EE-773E7496C69B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4EDFA060-4DF0-4341-8400-912A998AC77B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4EDFA060-4DF0-4341-8400-912A998AC77B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A741DCD6-D71E-46D5-B956-5818D2EB90BB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A741DCD6-D71E-46D5-B956-5818D2EB90BB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C5EC990E-1EE8-40CF-872A-BD59FEC98B04}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C5EC990E-1EE8-40CF-872A-BD59FEC98B04}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3504CF72-0416-4A96-A0E0-3280FEA05DE3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3504CF72-0416-4A96-A0E0-3280FEA05DE3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B8044627-D2DA-4E62-9699-D8E2BD136F6C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B8044627-D2DA-4E62-9699-D8E2BD136F6C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {794696D6-28B8-453E-B077-D0206E71C7D5}
+	EndGlobalSection
+EndGlobal
